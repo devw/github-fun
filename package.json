@@ -5,7 +5,8 @@
     "author": "Antonio Pierro <antonio.pierro@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "color": "^4.0.1"
+        "color": "^4.0.1",
+        "interpolate-rgb": "^0.0.2"
     },
     "scripts": {
         "build": "webpack --mode development",
