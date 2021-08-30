@@ -1,10 +1,17 @@
 {
-  "name": "github-fun",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Antonio Pierro <antonio.pierro@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "color": "^4.0.1"
-  }
+    "name": "github-fun",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Antonio Pierro <antonio.pierro@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "color": "^4.0.1"
+    },
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "webpack": "^5.51.1",
+        "webpack-cli": "^4.8.0"
+    }
 }
