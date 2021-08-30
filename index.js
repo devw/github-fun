@@ -1,3 +1,5 @@
+import Color from 'color';
+
 const ON = '#216e39';
 const OFF = 'ebedf0';
 const columns = Array.from(
